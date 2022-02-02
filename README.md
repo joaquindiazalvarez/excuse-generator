@@ -5,9 +5,7 @@ Start coding in 30 seconds by opening this template in gitpod:
 
 ### Manual Installation
 
-1) Remember to install the npm packages first:
-```
-$ npm install
+1) Remember to install the npm packagesstall
 ```
 
 2) Build and Start coding!
